@@ -1,0 +1,11 @@
+.main__container {
+  display: flex;
+  flex-direction: row;
+}
+
+.sidebarContainer {
+  display: flex;
+  flex-direction: column;
+  height: 100vh;
+  width: 250px;
+}
